@@ -1,0 +1,1 @@
+cmd_drivers/soc/sunxi/arisc/built-in.o :=  arm-openwrt-linux-gnueabi-ld -EL    -r -o drivers/soc/sunxi/arisc/built-in.o drivers/soc/sunxi/arisc/scp-call.o drivers/soc/sunxi/arisc/interfaces/built-in.o drivers/soc/sunxi/arisc/arisc.o 

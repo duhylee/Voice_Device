@@ -1,0 +1,4 @@
+kernel/drivers/misc/leds/pwm_leds.ko
+kernel/drivers/net/wireless/rtl8723ds/8723ds.ko
+kernel/drivers/bluetooth/btusb.ko
+kernel/drivers/bluetooth/btintel.ko

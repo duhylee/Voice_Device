@@ -1,0 +1,1 @@
+cmd_drivers/clk/sunxi/built-in.o :=  arm-openwrt-linux-gnueabi-ld -EL    -r -o drivers/clk/sunxi/built-in.o drivers/clk/sunxi/clk-sunxi.o drivers/clk/sunxi/clk-factors.o drivers/clk/sunxi/clk-periph.o drivers/clk/sunxi/clk-debugfs.o drivers/clk/sunxi/clk-sun8iw18.o 

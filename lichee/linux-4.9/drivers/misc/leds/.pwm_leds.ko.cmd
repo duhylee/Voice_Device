@@ -1,0 +1,1 @@
+cmd_drivers/misc/leds/pwm_leds.ko := arm-openwrt-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/leds/pwm_leds.ko drivers/misc/leds/pwm_leds.o drivers/misc/leds/pwm_leds.mod.o ;  true

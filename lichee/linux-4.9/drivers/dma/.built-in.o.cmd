@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.o :=  arm-openwrt-linux-gnueabi-ld -EL    -r -o drivers/dma/built-in.o drivers/dma/dmaengine.o drivers/dma/virt-dma.o drivers/dma/of-dma.o drivers/dma/sunxi-dma.o drivers/dma/qcom/built-in.o drivers/dma/xilinx/built-in.o 

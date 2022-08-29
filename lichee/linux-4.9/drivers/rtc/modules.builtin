@@ -1,0 +1,3 @@
+kernel/drivers/rtc/rtc-cmos.ko
+kernel/drivers/rtc/rtc-sunxi-v3.ko
+kernel/drivers/rtc/sunxi_timer_alarm.ko

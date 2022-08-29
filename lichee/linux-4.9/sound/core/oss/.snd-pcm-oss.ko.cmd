@@ -1,0 +1,1 @@
+cmd_sound/core/oss/snd-pcm-oss.ko := arm-openwrt-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/core/oss/snd-pcm-oss.ko sound/core/oss/snd-pcm-oss.o sound/core/oss/snd-pcm-oss.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/char/built-in.o :=  arm-openwrt-linux-gnueabi-ld -EL    -r -o drivers/char/built-in.o drivers/char/mem.o drivers/char/random.o drivers/char/misc.o drivers/char/agp/built-in.o drivers/char/sunxi-scr/built-in.o drivers/char/sunxi-sysinfo/built-in.o drivers/char/dump_reg/built-in.o drivers/char/sunxi-di/built-in.o 

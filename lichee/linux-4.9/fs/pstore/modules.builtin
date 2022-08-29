@@ -1,0 +1,3 @@
+kernel/fs/pstore/pstore.ko
+kernel/fs/pstore/pstore_blk.ko
+kernel/fs/pstore/blkoops.ko

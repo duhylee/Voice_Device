@@ -1,0 +1,2 @@
+kernel/drivers/net/mii.ko
+kernel/drivers/net/ethernet/davicom/dm9051.ko

@@ -1,0 +1,1 @@
+cmd_sound/core/oss/snd-mixer-oss.ko := arm-openwrt-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o sound/core/oss/snd-mixer-oss.ko sound/core/oss/snd-mixer-oss.o sound/core/oss/snd-mixer-oss.mod.o ;  true
